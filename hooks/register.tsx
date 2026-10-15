@@ -51,7 +51,7 @@ export const register: Register = on => {
     const engine = await next(e)
 
     return (
-      <Box flexDirection="row" alignItems="center" gap={1}>
+      <Box flexDirection="row" alignItems="center">
         <Svg
           source={SVG}
           alt="A pixel crab tossing the Compass Education logo"
