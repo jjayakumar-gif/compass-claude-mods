@@ -1,0 +1,5 @@
+{
+  "name": "local-mods",
+  "owner": { "name": "jjayakumar" },
+  "plugins": [{ "name": "compass-crab", "source": "./" }]
+}
